@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio1", "Exercicio1", "{C51AEAAA-24C0-410D-8593-D0867C525A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaEntreNumeros", "MediaEntreNumeros\MediaEntreNumeros.csproj", "{406444B1-DA86-4F87-886C-1DF627346047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406444B1-DA86-4F87-886C-1DF627346047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406444B1-DA86-4F87-886C-1DF627346047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406444B1-DA86-4F87-886C-1DF627346047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406444B1-DA86-4F87-886C-1DF627346047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{406444B1-DA86-4F87-886C-1DF627346047} = {C51AEAAA-24C0-410D-8593-D0867C525A3D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489EF363-3B79-42FA-AEAD-471256C98B59}
+	EndGlobalSection
+EndGlobal
