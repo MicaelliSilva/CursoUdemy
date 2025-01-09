@@ -21,7 +21,7 @@ for (int i = 0; i < quantidadeNumeros; i++)
 Console.WriteLine("\nOs numeros digitados foram:");
 for (int i = 0; i < quantidadeNumeros; i++)
 {
-    Console.WriteLine( numeros[i]);
+    Console.WriteLine(numeros[i]);
 }
 
 Console.WriteLine("\nOs numeros digitados na ordem inversa foram:");
@@ -34,8 +34,8 @@ int soma;
 
 soma = 0;
 
-for(int i = 0;i < quantidadeNumeros; i++)
+for (int i = 0; i < quantidadeNumeros; i++)
 {
     soma += numeros[i];
 }
-Console.WriteLine("\nA soma dos numeros é: "+ soma);
+Console.WriteLine("\nA soma dos numeros é: " + soma);
