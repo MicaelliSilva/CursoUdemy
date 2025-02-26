@@ -1,13 +1,13 @@
 ﻿int n;
 
-Console.Write("Digite a quantidade de pessoas:");
+Console.Write("Digite a quantidade de pessoas: ");
 n = int.Parse(Console.ReadLine());
 
 string[] nomes = new string[n];
 int[] idades = new int[n];
 double[] alturas = new double[n];
 
-Console.WriteLine("\nDigite o Nome, Idade e Altura:");
+Console.WriteLine("\nDigite o Nome, Idade e Altura: ");
 for (int i = 0; i < n; i++)
 {
     string[] s = Console.ReadLine().Split(' ');
@@ -37,4 +37,4 @@ for (int i = 0; i < n; i++)
 
 double porcentagem = (double)quantidadeIdade / n * 100.0;
 
-Console.WriteLine("\nPessoas com menos que 16 anos:" + porcentagem.ToString("F1") + "%");
+Console.WriteLine("\nPessoas com menos que 16 anos: " + porcentagem.ToString("F1") + "%");
