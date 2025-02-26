@@ -12,11 +12,11 @@ for (int i = 0; i < n; i++)
     numeros[i] = int.Parse(Console.ReadLine());
 }
 
-Console.WriteLine("\nNúmeros negativos digitados:");
+Console.WriteLine("\nNúmeros negativos digitados: ");
 for (int i = 0; i < n; i++)
 {
     if (numeros[i] < 0)
     {
-        Console.WriteLine(numeros[i]);
+        Console.WriteLine(numeros[i]);  
     }
 }
