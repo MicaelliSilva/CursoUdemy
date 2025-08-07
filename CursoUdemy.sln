@@ -3,41 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio1", "Exercicio1", "{C51AEAAA-24C0-410D-8593-D0867C525A3D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio01", "Exercicio01", "{C51AEAAA-24C0-410D-8593-D0867C525A3D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaEntreNumeros", "MediaEntreNumeros\MediaEntreNumeros.csproj", "{406444B1-DA86-4F87-886C-1DF627346047}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio2", "Exercicio2", "{C65BAD30-A3AC-4E4E-8713-2AA8D7649A64}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio02", "Exercicio02", "{C65BAD30-A3AC-4E4E-8713-2AA8D7649A64}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipulacaoNumerosInteirosComVetores", "ManipulacaoNumerosInteirosComVetores\ManipulacaoNumerosInteirosComVetores.csproj", "{22F88F6D-E292-459E-A97C-59EEB61A1D48}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio3", "Exercicio3", "{7756B77C-C9A6-406B-81C9-FFC81DBB0EFC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio03", "Exercicio03", "{7756B77C-C9A6-406B-81C9-FFC81DBB0EFC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada", "Tabuada\Tabuada.csproj", "{94B2A83B-3159-4885-AA98-080D590CEEFF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio4", "Exercicio4", "{F560211C-C478-41AA-8592-15B49209DAC5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio04", "Exercicio04", "{F560211C-C478-41AA-8592-15B49209DAC5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeituraExibicaoDeNumerosNegativos", "Leitura e Exibição de Números Negativos\LeituraExibicaoDeNumerosNegativos.csproj", "{40B549E2-56D4-4C16-A65B-19213FE11587}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio5", "Exercicio5", "{D2F76E99-877D-40FC-BB17-55EFB0CC5228}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio05", "Exercicio05", "{D2F76E99-877D-40FC-BB17-55EFB0CC5228}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DadosPessoaisPercentual", "dadosPessoaisPercentual\DadosPessoaisPercentual.csproj", "{20096AFB-8253-4A3B-B13C-6B966D1A2CA9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio6", "Exercicio6", "{957BED7E-10C4-4E22-8FAE-35BF1FE41E8F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio06", "Exercicio06", "{957BED7E-10C4-4E22-8FAE-35BF1FE41E8F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeituraExibicaoDeMatrizesDeInteiros", "LeituraExibicaoDeMatrizesDeInteiros\LeituraExibicaoDeMatrizesDeInteiros.csproj", "{3C488E58-273B-460A-BF12-FF3BC31CEA51}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio7", "Exercicio7", "{B4EE7ECB-4DDE-48B5-9C60-455F48209C1B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio07", "Exercicio07", "{B4EE7ECB-4DDE-48B5-9C60-455F48209C1B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizContagemNegativosDiagonalPrincipal", "MatrizContagemNegativosDiagonalPrincipal\MatrizContagemNegativosDiagonalPrincipal.csproj", "{82BD0A87-1A66-400C-816C-5CAC8E7DD3F3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio8", "Exercicio8", "{C9F2B244-4B59-4AE3-A991-D01655E70982}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio08", "Exercicio08", "{C9F2B244-4B59-4AE3-A991-D01655E70982}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetorSomaLinhasMatriz", "VetorSomaLinhasMatriz\VetorSomaLinhasMatriz.csproj", "{7EC5AF4E-A52D-4603-982C-06E92AF06E1E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio9", "Exercicio9", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio09", "Exercicio09", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaDoCirculo", "AreaDoCirculo\AreaDoCirculo.csproj", "{7B02E8F7-4770-4765-8A4C-2057469C43FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio10", "Exercicio10", "{8AFCB5A4-AE1B-4A4C-8F76-9B24A72CE64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaDeBhaskara", "FormulaDeBhaskara\FormulaDeBhaskara.csproj", "{49D5A1FE-B8E9-4262-A5D7-43419234D09C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,10 @@ Global
 		{7B02E8F7-4770-4765-8A4C-2057469C43FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B02E8F7-4770-4765-8A4C-2057469C43FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B02E8F7-4770-4765-8A4C-2057469C43FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D5A1FE-B8E9-4262-A5D7-43419234D09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D5A1FE-B8E9-4262-A5D7-43419234D09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D5A1FE-B8E9-4262-A5D7-43419234D09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D5A1FE-B8E9-4262-A5D7-43419234D09C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +103,7 @@ Global
 		{82BD0A87-1A66-400C-816C-5CAC8E7DD3F3} = {B4EE7ECB-4DDE-48B5-9C60-455F48209C1B}
 		{7EC5AF4E-A52D-4603-982C-06E92AF06E1E} = {C9F2B244-4B59-4AE3-A991-D01655E70982}
 		{7B02E8F7-4770-4765-8A4C-2057469C43FD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{49D5A1FE-B8E9-4262-A5D7-43419234D09C} = {8AFCB5A4-AE1B-4A4C-8F76-9B24A72CE64E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {489EF363-3B79-42FA-AEAD-471256C98B59}
