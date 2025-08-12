@@ -75,6 +75,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio18", "Exercicio18"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoRetangulo", "CalculoRetangulo\CalculoRetangulo.csproj", "{654C2333-645C-4BE4-A7DF-D22DC9A2B037}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio19", "Exercicio19", "{6F13F4D6-4C22-4968-9742-2AE6CAB8BB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSalarioFuncionario", "CalculoSalarioFuncionario\CalculoSalarioFuncionario.csproj", "{B0540CCA-15B0-44A7-A959-905C39FA1BD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,10 @@ Global
 		{654C2333-645C-4BE4-A7DF-D22DC9A2B037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654C2333-645C-4BE4-A7DF-D22DC9A2B037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654C2333-645C-4BE4-A7DF-D22DC9A2B037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0540CCA-15B0-44A7-A959-905C39FA1BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0540CCA-15B0-44A7-A959-905C39FA1BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0540CCA-15B0-44A7-A959-905C39FA1BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0540CCA-15B0-44A7-A959-905C39FA1BD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +184,7 @@ Global
 		{06266A55-DC44-41A8-ADCC-5AC7C67CF117} = {EA96861E-72AB-4C63-8218-01D13F872A79}
 		{6403FE7A-C01E-4682-B201-AC2AED3A7FD5} = {62017281-D596-4482-8388-6ED82253EC46}
 		{654C2333-645C-4BE4-A7DF-D22DC9A2B037} = {82BB723B-E4B7-4EB8-A932-E0805148B556}
+		{B0540CCA-15B0-44A7-A959-905C39FA1BD3} = {6F13F4D6-4C22-4968-9742-2AE6CAB8BB29}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {489EF363-3B79-42FA-AEAD-471256C98B59}
