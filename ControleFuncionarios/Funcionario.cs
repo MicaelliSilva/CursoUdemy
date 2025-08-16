@@ -15,6 +15,6 @@ namespace ControleFuncionarios
         public void AumentarSalario(decimal porcentagem)
         {
             Salario += porcentagem / 100 * Salario;
-        } 
+        }
     }
 }

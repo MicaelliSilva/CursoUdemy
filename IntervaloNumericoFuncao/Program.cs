@@ -25,4 +25,4 @@ static void RetornaIntervalo(double num)
     {
         Console.WriteLine("Fora do intervalo!!");
     }
-} 
+}

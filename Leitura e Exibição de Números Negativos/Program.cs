@@ -17,6 +17,6 @@ for (int i = 0; i < n; i++)
 {
     if (numeros[i] < 0)
     {
-        Console.WriteLine(numeros[i]);  
+        Console.WriteLine(numeros[i]);
     }
 }

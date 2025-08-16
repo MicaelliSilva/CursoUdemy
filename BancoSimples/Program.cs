@@ -33,7 +33,7 @@ else
 
 Console.WriteLine("\nDados da conta: ");
 Console.WriteLine("Conta: " + conta.NumeroConta + " Titular: "
-    + conta.NomeTitular + ", Saldo: $" + conta.Saldo );
+    + conta.NomeTitular + ", Saldo: $" + conta.Saldo);
 
 Console.Write("\nEntre com um valor para o deposito: ");
 decimal deposito = decimal.Parse(Console.ReadLine());

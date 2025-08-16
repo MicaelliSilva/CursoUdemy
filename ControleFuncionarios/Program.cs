@@ -7,7 +7,7 @@ int n = int.Parse(Console.ReadLine());
 List<Funcionario> listaFuncionarios = new List<Funcionario>();
 
 
-for(int i = 1; i <= n; i++)
+for (int i = 1; i <= n; i++)
 {
     Console.Write("\nDigite o nome do funcionario " + i + ": ");
     string nome = Console.ReadLine();
@@ -28,7 +28,7 @@ for(int i = 1; i <= n; i++)
 Console.WriteLine("\nDigite o id do funcionario: ");
 int id = int.Parse(Console.ReadLine());
 
-if(!listaFuncionarios.Any(f => f.Id == id))
+if (!listaFuncionarios.Any(f => f.Id == id))
 {
     Console.WriteLine("Nao existe funcionario com esse ID!!");
 }
@@ -40,6 +40,6 @@ else
     Funcionario funcionarioEncontrado = listaFuncionarios.Find(f => f.Id == id);
     funcionarioEncontrado.AumentarSalario(porcentagem);
 
-    Console.WriteLine("Id funcionario: " + funcionarioEncontrado.Id 
+    Console.WriteLine("Id funcionario: " + funcionarioEncontrado.Id
         + " \nSalario com aumento: " + funcionarioEncontrado.Salario.ToString("F2"));
 }

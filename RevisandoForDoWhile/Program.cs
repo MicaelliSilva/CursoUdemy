@@ -3,8 +3,8 @@
 Console.Write("Digite um numero: ");
 x = int.Parse(Console.ReadLine());
 
-do 
-{  
+do
+{
     if (x < 1 || x > 1000)
     {
         Console.Write("Digite Novamente: ");

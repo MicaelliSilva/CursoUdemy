@@ -4,14 +4,14 @@ Triangulo x = new Triangulo();
 Triangulo y = new Triangulo();
 
 Console.WriteLine("Entre com as medidas do triangulo X:");
- x.Lado1 = double.Parse(Console.ReadLine());
- x.Lado2 = double.Parse(Console.ReadLine());
- x.Lado3 = double.Parse(Console.ReadLine());
+x.Lado1 = double.Parse(Console.ReadLine());
+x.Lado2 = double.Parse(Console.ReadLine());
+x.Lado3 = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Entre com as medidas do triangulo Y:");
- y.Lado1= double.Parse(Console.ReadLine());
- y.Lado2= double.Parse(Console.ReadLine());
- y.Lado3= double.Parse(Console.ReadLine());
+y.Lado1 = double.Parse(Console.ReadLine());
+y.Lado2 = double.Parse(Console.ReadLine());
+y.Lado3 = double.Parse(Console.ReadLine());
 
 
 double xarea = x.Area();
