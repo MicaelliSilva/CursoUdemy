@@ -103,6 +103,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio25", "Exercicio25"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaliseMatriz", "AnaliseMatriz\AnaliseMatriz.csproj", "{AE984D88-009A-45C2-8B3E-3018288D0183}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio26", "Exercicio26", "{5855312A-3889-4757-9E76-DD03C64C3D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDeMoeda", "ConversorDeMoeda\ConversorDeMoeda.csproj", "{16DE539B-AA66-4FEB-B1E9-18B639D4B927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +213,10 @@ Global
 		{AE984D88-009A-45C2-8B3E-3018288D0183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE984D88-009A-45C2-8B3E-3018288D0183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE984D88-009A-45C2-8B3E-3018288D0183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DE539B-AA66-4FEB-B1E9-18B639D4B927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DE539B-AA66-4FEB-B1E9-18B639D4B927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DE539B-AA66-4FEB-B1E9-18B639D4B927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DE539B-AA66-4FEB-B1E9-18B639D4B927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -239,6 +247,7 @@ Global
 		{25E59153-5524-47BB-9AD7-FE21706B46ED} = {981D4FA9-5427-40EE-A176-8F5DFFFE77F1}
 		{4C93EC7D-BAF6-4C03-B803-010F49588363} = {EDB3E9DD-8578-48D7-A87A-B1BA92935680}
 		{AE984D88-009A-45C2-8B3E-3018288D0183} = {6F25AEB1-11D2-4E8B-B10D-9869DDC4A412}
+		{16DE539B-AA66-4FEB-B1E9-18B639D4B927} = {5855312A-3889-4757-9E76-DD03C64C3D4B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {489EF363-3B79-42FA-AEAD-471256C98B59}
