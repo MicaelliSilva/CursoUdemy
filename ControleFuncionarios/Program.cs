@@ -1,11 +1,9 @@
 ﻿using ControleFuncionarios;
-using System.Runtime.CompilerServices;
 
 Console.Write("Digite o numero de funcionarios: ");
 int n = int.Parse(Console.ReadLine());
 
 List<Funcionario> listaFuncionarios = new List<Funcionario>();
-
 
 for (int i = 1; i <= n; i++)
 {
